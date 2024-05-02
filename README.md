@@ -1,0 +1,2 @@
+# CollectionWithSwipeView_Bug
+CollectionWithSwipeView_Bug
