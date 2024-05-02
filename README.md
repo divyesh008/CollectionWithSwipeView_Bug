@@ -1,2 +1,2 @@
-# CollectionWithSwipeView_Bug
-CollectionWithSwipeView_Bug
+# CollectionView with SwipeView control bug .Net Maui
+https://github.com/dotnet/maui/issues/22165
